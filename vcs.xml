@@ -10,6 +10,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="dimaudrive" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="nanokaban@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
