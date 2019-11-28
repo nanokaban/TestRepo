@@ -1,0 +1,17 @@
+﻿{
+  "Id": "SBTech.SportsData.AdminApi",
+  "Service": "SBTech.SportsData.AdminApi",
+  "Active": true,
+  "Version": "2.11.0-master-21587",
+  "TargetClusters": [
+    "sd-kcc1"
+  ],
+  "Properties": {
+    "AppName": "SBTech.SportsData.Admin.Host.dll",
+    "Args": "Environment=cip",
+    "AppInitTimeout": "23:00:00"
+  },
+  "Environment": "Staging_IE",
+  "SelfHostVersion": "1",
+  "DeploymentType": "GenericDotnetCoreApp"
+}
