@@ -9,6 +9,7 @@
         <configuration>
           <option name="dontShowWritePermissionDialog" value="true" />
           <option name="editAndContinueEnabled" value="false" />
+          <option name="enableExternalSourceDebug" value="false" />
           <option name="showRunToPanel" value="false" />
         </configuration>
       </debugger>
