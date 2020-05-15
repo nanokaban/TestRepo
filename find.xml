@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'SportData.ETL.Core.Operators'" />
-    <option name="defaultScopeName" value="Project 'SportData.ETL.Core.Operators'" />
-    <option name="SEARCH_SCOPE" value="Project 'SportData.ETL.Core.Operators'" />
-    <option name="FILE_MASK" value="*.fs" />
+    <option name="customScope" value="Project 'SportData.ETL.IntegrationTests.CS'" />
+    <option name="defaultScopeName" value="Project 'SportData.ETL.IntegrationTests.CS'" />
+    <option name="SEARCH_SCOPE" value="Project 'SportData.ETL.IntegrationTests.CS'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
