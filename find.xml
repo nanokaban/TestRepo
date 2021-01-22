@@ -8,7 +8,7 @@
     <mask>*.xml</mask>
     <mask>*.tsx</mask>
     <mask>*.fs</mask>
-    <mask>*.json</mask>
     <mask>*.cs</mask>
+    <mask>*.json</mask>
   </component>
 </application>
