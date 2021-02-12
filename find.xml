@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'SportData.ETL.StuckEntitiesTracker'" />
+    <option name="defaultScopeName" value="Project 'SportData.ETL.StuckEntitiesTracker'" />
+    <option name="SEARCH_SCOPE" value="Project 'SportData.ETL.StuckEntitiesTracker'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
