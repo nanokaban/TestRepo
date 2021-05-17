@@ -10,5 +10,6 @@
     <mask>*.cs</mask>
     <mask>*.json</mask>
     <mask>*.fs</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
