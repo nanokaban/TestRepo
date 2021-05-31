@@ -3,7 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.fs" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -11,7 +11,7 @@
     <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>*.ts</mask>
-    <mask>*.cs</mask>
     <mask>*.fs</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
