@@ -214,6 +214,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cake">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="net.cakebuild.cakerider" />
+              <option name="myPluginName" value="Cake for Rider" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ccproj">
           <value>
             <plugin>
@@ -2626,6 +2634,11 @@
                   <entry key="BatchConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
+                    </value>
+                  </entry>
+                  <entry key="CAKE_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Cake" pluginName="Cake for Rider" pluginId="net.cakebuild.cakerider" />
                     </value>
                   </entry>
                   <entry key="ChromiumRemoteDebugType">
