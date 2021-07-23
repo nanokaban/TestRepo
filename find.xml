@@ -9,9 +9,9 @@
     <mask>*.tsx</mask>
     <mask>*.yml</mask>
     <mask>*.ts</mask>
-    <mask>*.cs</mask>
     <mask>*.csproj</mask>
     <mask>*.fs</mask>
     <mask>*.json</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
