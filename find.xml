@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'SportsData.TemplateSettingsETL.E2ETests'" />
-    <option name="defaultScopeName" value="Project 'SportsData.TemplateSettingsETL.E2ETests'" />
-    <option name="SEARCH_SCOPE" value="Project 'SportsData.TemplateSettingsETL.E2ETests'" />
+    <option name="customScope" value="Project 'SportsData.ETL.Flow.TemplateSettings'" />
+    <option name="defaultScopeName" value="Project 'SportsData.ETL.Flow.TemplateSettings'" />
+    <option name="SEARCH_SCOPE" value="Project 'SportsData.ETL.Flow.TemplateSettings'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
