@@ -10,9 +10,9 @@
     <mask>*.yml</mask>
     <mask>*.ts</mask>
     <mask>*.csproj</mask>
-    <mask>*.json</mask>
     <mask>*.cs</mask>
     <mask>*.fs</mask>
     <mask>*.сs</mask>
+    <mask>*.json</mask>
   </component>
 </application>
